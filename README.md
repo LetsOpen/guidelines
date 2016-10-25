@@ -1,12 +1,8 @@
 #GUIDELINES WIKI
-**Aspiring to be a World-Class software developer/engineer?** This is a guide where you will get engaged on the great values,
-best software development practices and awesome opportunities the Andela-community will offer and equip you with as you journey 
-through to your great dream in your career. 
-This platform provides an avenue whereby the Andela Community Sourced Projects will  allow the community members to create and contribute
-to the open source projects facilitated by Andela and follow the Andela way. This guide will provide examples, templates, and instructions 
-on all of the processes involved in successful project creation so that any community member can start their own team. 
-Once a team has followed our team lead guideline, Andela will assign a Mentor to that project to meet regularly with the team lead and 
-help them overcome any obstacles, as well as celebrate any victories. 
+These guidelines will introduce you to the values, best software development practices...the Andela community has to offer and 
+With them, you will be well equipped in your journey to becoming a world class software developer.... 
+This guide will provide examples, templates, and instructions on all of the processes involved in successful project creation and contribution so that any community member can start, join or contribute to a team. 
+
 ##PURPOSE OF THE PLATFORM
 Finding a great team is a way to achieving a great dream and Andela community provides you with the best platform to get that great team. 
 This wiki will guide you on various necessary stages to be on your dream team and strengthen your skill-set, which include:
