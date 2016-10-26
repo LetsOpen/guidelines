@@ -1,6 +1,6 @@
 #Guidelines Wiki
-These guidelines will introduce you to the values, best software development practices...the Andela community has to offer and 
-With them, you will be well equipped in your journey to becoming a world class software developer.... 
+These guidelines will introduce you to the values, best software development practices and awesome opportunities the Andela community has to offer. 
+With them, you will be well equipped in your journey to becoming a world class software developer. 
 This guide will provide examples, templates, and instructions on all of the processes involved in successful project creation and contribution so that any community member can start, join or contribute to a team. 
 
 ##Purpose of the Platform
