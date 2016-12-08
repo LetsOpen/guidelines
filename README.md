@@ -15,4 +15,4 @@ This wiki will guide you on various necessary stages to be on your dream team an
   * Best ways to promoting your project, contributing to project, managing a project, setting goals and expectations and accomplishing the 
    expectations on the time-grid.
 
-**See [our wiki here](https://github.com/LetsOpen/guidelines/wiki)**
+**See [our wiki here](https://github.com/Stephen-Njoroge/guidelines/wiki)**
